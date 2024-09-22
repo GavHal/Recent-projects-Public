@@ -1,1 +1,7 @@
 voila
+ipywidgets
+pathlib
+fastai
+PIL
+io
+IPython
